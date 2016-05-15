@@ -152,6 +152,7 @@
   <ItemGroup>
     <Content Include="Global.asax" />
     <Content Include="Refresh.html" />
+    <Content Include="Sample.txt" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
